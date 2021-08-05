@@ -14,12 +14,13 @@ Robotics institute and the University of Michigan Museum of Art (UMMA) have been
 - Explore how robots can adapt to dynamic and evolving cultural spaces
 
 ## Our Student Artists
-
-- Dilan Huang [headshot]: Dilan Huang is an undergraduate student at the University of Michigan - Penny W. Stamps School of Art and Design. She has worked in both digital and traditional media illustrating children's books featuring people of color and indie games produced by Wolverine Soft at the University of Michigan. 
-
-
-- Mellisa Lee [headshot]: Mellisa Lee is an undergraduate student pursuing a Bachelor of Fine Arts (BFA) at the University of Michigan-Penny W. Stamps School of Art & Design. She has an academic focus in Anthropology and works currently as an illustrator for The Michigan Daily. Aside from digital illustration, Mellisa is also a painter. 
-
+<img src="https://github.com/UMich-CURLY/UMMA_Collab/blob/e9afb22cf3b893d291d4d6a1fb8bb70e6066377d/Student%20artists/DH_Photo.jpeg" width="150" align = "left" title="Dilan Huang"/>
+Dilan Huang [headshot]: Dilan Huang is an undergraduate student at the University of Michigan - Penny W. Stamps School of Art and Design. She has worked in both digital and traditional media illustrating children's books featuring people of color and indie games produced by Wolverine Soft at the University of Michigan. 
+<br clear="left"/>
+<br />
+<img src="https://github.com/UMich-CURLY/UMMA_Collab/blob/35db21b914b9c106f72c4a4896690cb1ef9b78c0/Student%20artists/12068%20(1).JPEG" width="150" align = "left" title="Mellisa Lee"/>
+Mellisa Lee: Mellisa Lee is an undergraduate student pursuing a Bachelor of Fine Arts (BFA) at the University of Michigan-Penny W. Stamps School of Art & Design. She has an academic focus in Anthropology and works currently as an illustrator for The Michigan Daily. Aside from digital illustration, Mellisa is also a painter. 
+<br clear="left"/>
 
 
 Our Student Artists Inspire us to envision what a robot in a museum might look like 
