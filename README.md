@@ -2,7 +2,7 @@
 
 ## Our Project
 Robotics institute and the University of Michigan Museum of Art (UMMA) have been collaborating to imagine how a robot could encourage visitors’ curiosity and transform their art museum experience through interactive conversations. This partnership exemplifies the values of the U-M Arts Initiative, an organization that supports intentional cross-disciplinary projects that advance science, culture, and equity. 
-![alt text](https://github.com/UMich-CURLY/UMMA_Collab/blob/bfe0580e90c041047942ad8d53a3477bf95b9ac9/Team%20pictures/UMMA-20191217-1130.jpg)
+![alt text](./Team_pics/UMMA-20191217-1130.jpg)
 ## Our Goals 
 - Encourage collaborative research between humanities and engineering disciplines
 - Activate museum galleries as laboratories for learning
@@ -14,11 +14,11 @@ Robotics institute and the University of Michigan Museum of Art (UMMA) have been
 - Explore how robots can adapt to dynamic and evolving cultural spaces
 
 ## Our Student Artists
-<img src="https://github.com/UMich-CURLY/UMMA_Collab/blob/e9afb22cf3b893d291d4d6a1fb8bb70e6066377d/Student%20artists/DH_Photo.jpeg" width="150" align = "left" title="Dilan Huang"/>
+<img src="./Headshots/DH_Photo.jpeg" width="150" align = "left" title="Dilan Huang"/>
 Dilan Huang [headshot]: Dilan Huang is an undergraduate student at the University of Michigan - Penny W. Stamps School of Art and Design. She has worked in both digital and traditional media illustrating children's books featuring people of color and indie games produced by Wolverine Soft at the University of Michigan. 
 <br clear="left"/>
 <br />
-<img src="https://github.com/UMich-CURLY/UMMA_Collab/blob/f1a5077e908c1f4027add7d92b6c3c06528c4dd7/Student%20artists/12068%20(1).JPEG" width="150" align = "left" title="Mellisa Lee"/>
+<img src="./Headshots/12068%20(1).JPEG" width="150" align = "left" title="Mellisa Lee"/>
 Mellisa Lee: Mellisa Lee is an undergraduate student pursuing a Bachelor of Fine Arts (BFA) at the University of Michigan-Penny W. Stamps School of Art & Design. She has an academic focus in Anthropology and works currently as an illustrator for The Michigan Daily. Aside from digital illustration, Mellisa is also a painter. 
 <br clear="left"/>
 
