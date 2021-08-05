@@ -2,7 +2,7 @@
 
 ## Our Project
 Robotics institute and the University of Michigan Museum of Art (UMMA) have been collaborating to imagine how a robot could encourage visitors’ curiosity and transform their art museum experience through interactive conversations. This partnership exemplifies the values of the U-M Arts Initiative, an organization that supports intentional cross-disciplinary projects that advance science, culture, and equity. 
-![alt text](./Team images/UMMA-20191217-1166.jpg)
+![alt text](https://github.com/UMich-CURLY/UMMA_Collab/blob/bfe0580e90c041047942ad8d53a3477bf95b9ac9/Team%20pictures/UMMA-20191217-1130.jpg)
 ## Our Goals 
 - Encourage collaborative research between humanities and engineering disciplines
 - Activate museum galleries as laboratories for learning
