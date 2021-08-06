@@ -29,17 +29,18 @@ Michigan Robotics and UMMA staff have some ideas, but artists often can envision
 
 ## Our Storyboards
 Dilan's Storyboard\
-<img src="./Illustrations/17B245CA-22F0-4D41-9DBD-0E81D255F5F6.png" width="15%" align = "left" title="Dilan Huang"/><img 
-     src="./Illustrations/3C279000-BEE9-445E-A859-EB8F7931CC8F.png" width="15%" align = "left" title="Dilan Huang"/><img
-     src="./Illustrations/941B8C9D-23F8-4A08-864A-B65B7E56605C (1).png" width="15%" align = "left" title="Dilan Huang"/><img 
-     src="./Illustrations/A2BB3AE9-44C5-4219-B1C7-70983C7B2AE2.png" width="15%" align = "left" title="Dilan Huang"/><img 
-     src="./Illustrations/C455C917-C413-4208-B692-A36DAF0532E8.png" width="15%" align = "left" title="Dilan Huang"/>
-<br clear="left"/>
+<!-- <img src="./Illustrations/17B245CA-22F0-4D41-9DBD-0E81D255F5F6.png" width="50%" align = "left" title="Dilan Huang"/> Concept\ <img 
+     src="./Illustrations/3C279000-BEE9-445E-A859-EB8F7931CC8F.png" width="50%" align = "left" title="Dilan Huang"/>Concept\ <img
+     src="./Illustrations/941B8C9D-23F8-4A08-864A-B65B7E56605C (1).png" width="50%" align = "left" title="Dilan Huang"/>Concept\ <img 
+     src="./Illustrations/A2BB3AE9-44C5-4219-B1C7-70983C7B2AE2.png" width="50%" align = "left" title="Dilan Huang"/>Concept\ <img 
+     src="./Illustrations/C455C917-C413-4208-B692-A36DAF0532E8.png" width="50%" align = "left" title="Dilan Huang"/>Concept\
+<br clear="left"/> -->
+
 <br />
 Mellisa's Storyboard\
-<img src="./Illustrations/Untitled_Artwork (1) (1).png" width="20%" align = "left" title="Dilan Huang"/><img 
+<!-- <img src="./Illustrations/Untitled_Artwork (1) (1).png" width="20%" align = "left" title="Dilan Huang"/><img 
      src="./Illustrations/Untitled_Artwork (2).png" width="20%" align = "left" title="Dilan Huang"/><img
      src="./Illustrations/Untitled_Artwork (3).png" width="20%" align = "left" title="Dilan Huang"/><img 
      src="./Illustrations/Untitled_Artwork copy (1).png" width="20%" align = "left" title="Dilan Huang"/>
-<br clear="left"/>
+<br clear="left"/> -->
 <br />
