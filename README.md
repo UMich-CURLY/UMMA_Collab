@@ -28,7 +28,7 @@ Our Student Artists Inspire us to envision what a robot in a museum might look l
 Michigan Robotics and UMMA staff have some ideas, but artists often can envision a future that others haven’t yet imagined. We wondered what possibilities two students from Penny W. Stamps School of Art and Design might come up with. We hoped they would lead the Robotics-UMMA team to new directions or undiscovered paths. 
 
 ## Our Storyboards
-Dilan's Storyboard\
+### Dilan's Storyboard\
 <!-- <img src="./Illustrations/17B245CA-22F0-4D41-9DBD-0E81D255F5F6.png" width="50%" align = "left" title="Dilan Huang"/> Concept\ <img 
      src="./Illustrations/3C279000-BEE9-445E-A859-EB8F7931CC8F.png" width="50%" align = "left" title="Dilan Huang"/>Concept\ <img
      src="./Illustrations/941B8C9D-23F8-4A08-864A-B65B7E56605C (1).png" width="50%" align = "left" title="Dilan Huang"/>Concept\ <img 
@@ -37,7 +37,7 @@ Dilan's Storyboard\
 <br clear="left"/> -->
 ![alt text](./Illustrations/Dilans_gif.gif)
 <br />
-Mellisa's Storyboard\
+### Mellisa's Storyboard\
 ![alt text](./Illustrations/Mellisa_gif.gif)
 <!-- <img src="./Illustrations/Untitled_Artwork (1) (1).png" width="20%" align = "left" title="Dilan Huang"/><img 
      src="./Illustrations/Untitled_Artwork (2).png" width="20%" align = "left" title="Dilan Huang"/><img
