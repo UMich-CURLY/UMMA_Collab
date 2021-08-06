@@ -35,9 +35,10 @@ Dilan's Storyboard\
      src="./Illustrations/A2BB3AE9-44C5-4219-B1C7-70983C7B2AE2.png" width="50%" align = "left" title="Dilan Huang"/>Concept\ <img 
      src="./Illustrations/C455C917-C413-4208-B692-A36DAF0532E8.png" width="50%" align = "left" title="Dilan Huang"/>Concept\
 <br clear="left"/> -->
-
+![alt text](./Illustrations/Dilans_gif.gif)
 <br />
 Mellisa's Storyboard\
+![alt text](./Illustrations/Mellisa_gif.gif)
 <!-- <img src="./Illustrations/Untitled_Artwork (1) (1).png" width="20%" align = "left" title="Dilan Huang"/><img 
      src="./Illustrations/Untitled_Artwork (2).png" width="20%" align = "left" title="Dilan Huang"/><img
      src="./Illustrations/Untitled_Artwork (3).png" width="20%" align = "left" title="Dilan Huang"/><img 
