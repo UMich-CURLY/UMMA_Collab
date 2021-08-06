@@ -15,7 +15,7 @@ Robotics institute and the University of Michigan Museum of Art (UMMA) have been
 
 ## Our Student Artists
 <img src="./Headshots/DH_Photo.jpeg" width="150" align = "left" title="Dilan Huang"/>
-Dilan Huang [headshot]: Dilan Huang is an undergraduate student at the University of Michigan - Penny W. Stamps School of Art and Design. She has worked in both digital and traditional media illustrating children's books featuring people of color and indie games produced by Wolverine Soft at the University of Michigan. 
+Dilan Huang: Dilan Huang is an undergraduate student at the University of Michigan - Penny W. Stamps School of Art and Design. She has worked in both digital and traditional media illustrating children's books featuring people of color and indie games produced by Wolverine Soft at the University of Michigan. 
 <br clear="left"/>
 <br />
 <img src="./Headshots/12068%20(1).JPEG" width="150" align = "left" title="Mellisa Lee"/>
@@ -26,4 +26,12 @@ Mellisa Lee: Mellisa Lee is an undergraduate student pursuing a Bachelor of Fine
 Our Student Artists Inspire us to envision what a robot in a museum might look like 
 
 Michigan Robotics and UMMA staff have some ideas, but artists often can envision a future that others haven’t yet imagined. We wondered what possibilities two students from Penny W. Stamps School of Art and Design might come up with. We hoped they would lead the Robotics-UMMA team to new directions or undiscovered paths. 
+
+## Our Storyboards
+
+<img src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img 
+     src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img
+     src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img 
+     src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img 
+     src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/>
 
