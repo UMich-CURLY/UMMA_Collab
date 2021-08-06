@@ -29,7 +29,7 @@ Michigan Robotics and UMMA staff have some ideas, but artists often can envision
 
 ## Our Storyboards
 
-<img src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img 
+<img src="./Illustrations/17B245CA-22F0-4D41-9DBD-0E81D255F5F6.png" width="15%" align = "left" title="Dilan Huang"/><img 
      src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img
      src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img 
      src="./Headshots/DH_Photo.jpeg" width="15%" align = "left" title="Dilan Huang"/><img 
