@@ -51,4 +51,3 @@ If you have more questions about the project, please reach out to:
 ## Support 
 Dilan and Mellisa’s time, prints, and exhibition were supported by [U-M’s Diversity, Equity, and Innovation Grant](https://diversity.umich.edu/). Our team wanted to promote the emerging careers of visual artists, allow them to do what they do well--make art, and encourage students to lead us forward in our project design. 
 
-
