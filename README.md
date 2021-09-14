@@ -38,6 +38,12 @@ Michigan Robotics and UMMA staff have some ideas, but artists often can envision
 ## Collaborative Process
 First, our Robotics and Museum team described the partnership and project goals. Then we asked Dilan Huang and Mellisa Lee to dream, sketch, and plot out their version of Human-Robot interaction. They brought their own experiences and needs to the conversation and presented preliminary sketches of what students may appreciate in a visitor-robot museum experience. Touch, imagination, floating images, co-navigators, dance parties! We discussed and refined, and they finalized five illustrations that may provide a road map for the future of the project. 
 
+## Robotics Team 
+We as Roboticist tend to stay within the lines of what technology can offer presently or in the near future. Opening up the floor of discussion to artists and designer is one way we can step out of box to define what Robots of the future should like and try to take small steps into making these ideas come true! 
+Our Team on the robotics side includes:
+
+
+
 ## Support 
 Dilan and Mellisa’s time, prints, and exhibition were supported by [U-M’s Diversity, Equity, and Innovation Grant](https://diversity.umich.edu/). Our team wanted to promote the emerging careers of visual artists, allow them to do what they do well--make art, and encourage students to lead us forward in our project design. 
 
