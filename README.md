@@ -41,9 +41,13 @@ First, our Robotics and Museum team described the partnership and project goals.
 
 ## Robotics Team 
 We as Roboticist tend to stay within the lines of what technology can offer presently or in the near future. Opening up the floor of discussion to artists and designer is one way we can step out of box to define what Robots of the future should like and try to take small steps into making these ideas come true! 
-If you have more questions about the project, please reach out to Tribhi Kathuria (tribhi@umich.edu), PhD Candidate in Robotics. 
+If you have more questions about the project, please reach out to:
 
-
+<img src="./Headshots/Tribhi_Kathuria.jpeg" width="150" align = "left" title="Tribhi Kathuria"/> Tribhi Kathuria: Tribhi Kathuria (<a href="mailto: tribhi@umich.edu">tribhi@umich.edu</a>) is a PhD Student in Robotics, actively working on the Robotics side of this project, being co-advised by 
+<a href="https://robotics.umich.edu/profile/maani-ghaffari/">Professor Maani Ghaffari Jadidi</a> and 
+<a href="https://robotics.umich.edu/profile/xi-jessie-yang/">Professor Xi Jessei Yang </a> 
+<br clear="left"/>
+<br />
 ## Support 
 Dilan and Mellisa’s time, prints, and exhibition were supported by [U-M’s Diversity, Equity, and Innovation Grant](https://diversity.umich.edu/). Our team wanted to promote the emerging careers of visual artists, allow them to do what they do well--make art, and encourage students to lead us forward in our project design. 
 
