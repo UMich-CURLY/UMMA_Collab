@@ -20,12 +20,12 @@ We showcased our work through the artwork created by our Student Artists in the 
 <!-- ![alt text](./Team_pics/RobotArtSep21(30).jpg) -->
 <center><img src="./Team_pics/RobotArtSep21(30).jpg" width="850"></center>
 
-## Our Student Artists
-<img src="./Team_pics/RobotArtSep21(01).jpg" width="250" align = "left" title="Dilan Huang"/>
+## Our Student Artists with their Posters! 
+<img src="./Team_pics/RobotArtSep21(02).jpg" width="250" align = "left" title="Dilan Huang"/>
 Dilan Huang: Dilan Huang is an undergraduate student at the University of Michigan - Penny W. Stamps School of Art and Design. She has worked in both digital and traditional media illustrating children's books featuring people of color and indie games produced by Wolverine Soft at the University of Michigan. 
 <br clear="left"/>
 <br />
-<img src="./Team_pics/RobotArtSep21(04).jpg" width="250" align = "left" title="Mellisa Lee"/>
+<img src="./Team_pics/RobotArtSep21(03).jpg" width="250" align = "left" title="Mellisa Lee"/>
 Mellisa Lee: Mellisa Lee is an undergraduate student pursuing a Bachelor of Fine Arts (BFA) at the University of Michigan-Penny W. Stamps School of Art & Design. She has an academic focus in Anthropology and works currently as an illustrator for The Michigan Daily. Aside from digital illustration, Mellisa is also a painter. 
 <br clear="left"/>
 
