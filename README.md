@@ -1,8 +1,9 @@
-# Robotics+UMMA Student Art Exhibition
+# Robotics+UMMA Collaboration 
+![alt text](./Team_pics/RobotArtSep21(08).jpg)
 
 ## Our Project
 Robotics institute and the University of Michigan Museum of Art (UMMA) have been collaborating to imagine how a robot could encourage visitors’ curiosity and transform their art museum experience through interactive conversations. This partnership exemplifies the values of the U-M Arts Initiative, an organization that supports intentional cross-disciplinary projects that advance science, culture, and equity. 
-![alt text](./Team_pics/UMMA-20191217-1130.jpg)
+
 ## Our Goals 
 - Encourage collaborative research between humanities and engineering disciplines
 - Activate museum galleries as laboratories for learning
@@ -13,12 +14,18 @@ Robotics institute and the University of Michigan Museum of Art (UMMA) have been
 - Spark conversation and deepen human relationships 
 - Explore how robots can adapt to dynamic and evolving cultural spaces
 
+## Student Art Exhibition
+We showcased our work through the artwork created by our Student Artists in the form of an Exhibition at the new Ford Robotics Building. We opened up the floor to the visitors in the Atrium to look at the art and challenge themselves in thinking about how Robots could meaningfully be a part of a Museum Environment! 
+
+<!-- ![alt text](./Team_pics/RobotArtSep21(30).jpg) -->
+<center><img src="./Team_pics/RobotArtSep21(30).jpg" width="850"></center>
+
 ## Our Student Artists
-<img src="./Headshots/DH_Photo.jpeg" width="150" align = "left" title="Dilan Huang"/>
+<img src="./Team_pics/RobotArtSep21(01).jpg" width="250" align = "left" title="Dilan Huang"/>
 Dilan Huang: Dilan Huang is an undergraduate student at the University of Michigan - Penny W. Stamps School of Art and Design. She has worked in both digital and traditional media illustrating children's books featuring people of color and indie games produced by Wolverine Soft at the University of Michigan. 
 <br clear="left"/>
 <br />
-<img src="./Headshots/12068%20(1).JPEG" width="150" align = "left" title="Mellisa Lee"/>
+<img src="./Team_pics/RobotArtSep21(04).jpg" width="250" align = "left" title="Mellisa Lee"/>
 Mellisa Lee: Mellisa Lee is an undergraduate student pursuing a Bachelor of Fine Arts (BFA) at the University of Michigan-Penny W. Stamps School of Art & Design. She has an academic focus in Anthropology and works currently as an illustrator for The Michigan Daily. Aside from digital illustration, Mellisa is also a painter. 
 <br clear="left"/>
 
